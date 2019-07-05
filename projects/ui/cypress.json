@@ -1,0 +1,10 @@
+{
+    "video": false,
+    "env": {
+      "base": "http://localhost:3000",
+      "uat": "tbd",
+      "prod": "tbd"
+    },
+    "chromeWebSecurity": false
+  }
+  
